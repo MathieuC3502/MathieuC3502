@@ -1,5 +1,14 @@
 # 👋 Hi there, I'm **Mathieu Chesneau**!
 
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![QGIS](https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=qgis)
+![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
+![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
+![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=mathworks)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex)
+
 ## 🚀 About Me
 I'm a French PhD student working with satellite remote sensing data, with a focus on developing novel methods for tree species identification, hydric stress monitoring, and the localization of volatile organic compound (VOC) zones. My passion lies in harnessing spaceborne remote sensing technologies to drive solutions for environmental sustainability and disaster monitoring.
 
@@ -34,23 +43,20 @@ An Hyperspectral Image displayed as "Human Vision", compared to the same image v
 
 ---
 
-## 🛠️ Tech Stack
+<h4 align="center">📌 Featured Repositories</h4>
 
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
-![QGIS](https://img.shields.io/badge/-QGIS-black?style=flat-square&logo=qgis)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?style=flat-square&logo=pytorch)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?style=flat-square&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?style=flat-square&logo=opencv)
-![MATLAB](https://img.shields.io/badge/-MATLAB-black?style=flat-square&logo=mathworks)
-![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex)
+<p align="center">
+  <a href="https://github.com/MathieuC3502/Edge-Preserving-Smoothing-and-Multi-Scale-Manipulation">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MathieuC3502&repo=Edge-Preserving-Smoothing-and-Multi-Scale-Manipulation&theme=dark" />
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/MathieuC3502/roshar-map-french">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=MathieuC3502&repo=roshar-map-french&theme=dark" />
+  </a>
+</p>
 
 ---
 
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/mathieuchesneau3531)
-
----
-
-_✨ This README is generated with ❤️ by Mathieu Chesneau_
