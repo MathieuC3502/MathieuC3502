@@ -10,11 +10,11 @@
 ![LaTeX](https://img.shields.io/badge/-LaTeX-black?style=flat-square&logo=latex)
 
 ## 🚀 About Me
-I'm a French PhD student working with satellite remote sensing data, with a focus on developing novel methods for tree species identification, hydric stress monitoring, and the localization of volatile organic compound (VOC) zones. My passion lies in harnessing spaceborne remote sensing technologies to drive solutions for environmental sustainability and disaster monitoring.
+I'm a French PhD student working with satellite remote sensing data. I'm passionate about leveraging spaceborne remote sensing for the good of all, through GIS services, disaster monitoring, or scientific research.
 
 - 🔭 I’m currently pursuing my PhD at [**Diginove**](https://www.diginove.com/) and [**Institut Fresnel**](https://www.fresnel.fr/)
 - 🎓 **PhD Title**: *Development of Satellite Image Processing for Tree Species Identification, Hydric Stress Monitoring, and Localization of Volatile Organic Compound Zones*
-- 🌱This work focuses on applying techniques of image processing (single band, multi and/or hyper-spectral), data fusion (with Radar and/or LiDar data) and AI to fight against forest fires
+- 🌱This work focuses on applying techniques of image processing (single band, multi and/or hyper-spectral), data fusion (with Radar and/or LiDar data) and AI to build knowledge and services to fight against forest fires
 
 ## 🌿 Making the Data Talk
 
