@@ -9,7 +9,7 @@
 ## 🚀 About Me
 I'm a French PhD student working with satellite remote sensing data. I'm passionate about using remote sensing for the good of all, through GIS services, disaster monitoring, or scientific research.
 
-- 🔭 I’m currently pursuing my PhD at [**Diginove**](https://www.diginove.com/) and [**Institut Fresnel**](https://www.fresnel.fr/)
+- 🔭 I’m currently pursuing a PhD at [**Diginove**](https://www.diginove.com/) and [**Institut Fresnel**](https://www.fresnel.fr/)
 - 🎓 **PhD Title**: *Development of Satellite Image Processing for Tree Species Identification, Hydric Stress Monitoring, and Localization of Volatile Organic Compound Zones*
 - 🌱 My work focuses on using satellite data (mainly Hyperspectral but not only) and Deep Learning to improve prevention against forest fires
 
